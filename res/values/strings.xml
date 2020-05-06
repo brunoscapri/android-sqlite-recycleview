@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My SQLite Application</string>
+    <string name="add_city">Add City</string>
+    <string name="nome_da_cidade">Nome da cidade</string>
+</resources>
